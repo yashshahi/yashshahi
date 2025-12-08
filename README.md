@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**yashshahi/yashshahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 🔭 I’m currently Working on a project on credit risk analysis<br>🤝 I’m looking for help with scorecard development in credit risk<br>🌱 I’m currently learning Ensemble Techniques and applications of it in improving models<br>💬 Ask me about Economics and applications<br>⚡ Fun fact trying to become a amalgam of finance and tech
