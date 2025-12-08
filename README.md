@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently Working on a project on credit risk analysis<br>🤝 I’m looking for help with scorecard development in credit risk<br>🌱 I’m currently learning Ensemble Techniques and applications of it in improving models<br>💬 Ask me about Economics and applications<br>⚡ Fun fact trying to become a amalgam of finance and tech
+🔭 I’m currently Working on a project on credit risk analysis<br>🤝 I’m looking for help with scorecard development in credit risk<br>🌱 I’m currently learning Ensemble Techniques and applications of it in improving models<br>💬 Ask me about Economics,Risk management and Datascience <br>⚡ Fun fact trying to become a amalgam of finance and tech
 
 
 ## 🌐 Socials:
