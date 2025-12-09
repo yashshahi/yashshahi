@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently Working on a project on credit risk analysis<br>🤝 I’m looking for help with scorecard development in credit risk modelling<br>🌱 I’m currently learning Ensemble methods and their applications in boosting model performance and stability.<br>💬 Ask me about Economics, risk management, and data science—especially where these fields intersect. <br>⚡ Fun fact I’m working toward becoming a unique blend of finance and technology, combining economic intuition with machine learning expertise.
+👨‍💻 A self-taught programmer with a passion for coding and learning.<br>🔭 I’m currently Working on a project on credit risk analysis<br>🤝 I’m looking for help with scorecard development in credit risk modelling<br>🌱 I’m currently learning Ensemble methods and their applications in boosting model performance and stability.<br>💬 Ask me about Economics, risk management, and data science—especially where these fields intersect. <br>⚡ Fun fact I’m working toward becoming a unique blend of finance and technology, combining economic intuition with machine learning expertise.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashshahi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahiyash21@gmail.com) 
