@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 👨‍💻 A self-taught programmer with a passion for coding and learning.<br>
-🔭 I’m currently Working on a project on Stress Testing of credit risk portfolio<br>
+🔭 I’m currently Working on a project on probabilistic forecasting models<br>
 🤝 I’m looking for help with Macroeconomic scenario modelling for credit risk<br>
 🌱 I’m currently learning Ensemble methods and their applications in boosting model performance and stability.<br>💬 
 Ask me about Economics, risk management, and data science—especially where these fields intersect. <br>
